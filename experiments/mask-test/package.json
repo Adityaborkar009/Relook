@@ -1,0 +1,1 @@
+{"name":"relook-mask-test","private":true,"type":"module","version":"1.0.0","engines":{"node":">=22.18"},"scripts":{"start":"node server.mjs","test":"node --test tests.mjs"},"dependencies":{"@gradio/client":"2.7.1","sharp":"^0.34.5"}}
